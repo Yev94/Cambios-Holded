@@ -1,5 +1,12 @@
 # Cambios Holded
 
+## Usando Extensión Violent Monkey
+
+- Chrome:
+  [Violent Monkey Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+- Edge:
+  [Violent Monkey Edge](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+
 ## Cambios en la versión 1.0.0
 
 ### JS Loader
