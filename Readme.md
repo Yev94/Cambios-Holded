@@ -21,3 +21,7 @@
 
 - Añadido Click para Ordenar de manera descendente
 - Añadido Click para filtrar por favoritos
+
+## Cambios en la versión 1.0.0 sin estilos
+
+- Adiós a los estilos locos
