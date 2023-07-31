@@ -5,7 +5,7 @@
 - Chrome:
   [Violent Monkey Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 - Edge:
-  [Violent Monkey Edge](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+  [Violent Monkey Edge](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao?refid=bingshortanswers)
 
 ## Cambios en la versión 1.0.0
 
